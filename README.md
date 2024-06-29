@@ -22,4 +22,7 @@ You are **required to download several assets. The assets that need to be downlo
 
 **Download Here:**
 - Asset Character  : https://pixel-boy.itch.io/ninja-adventure-asset-pack
-- Asset Background : https://limezu.itch.io/modernexteriors
+- Asset Background :
+  1. https://limezu.itch.io/modernexteriors
+  2. https://kamisama887.itch.io/lorenz-fries-school-horror
+  3. https://kamisama887.itch.io/horror-lab-top-down/devlog/435867/new-asset-pack
