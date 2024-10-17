@@ -37,7 +37,7 @@ This project using Unity 2022.3.19f1
 | ------------------- | ------------------------------------------------------------ |
 | `GameManager.cs` | Manages the game flow such as change scene, animator, etc. |
 | `AnimatorHandler.cs` | Manage animation on movement. |
-| `Movment.cs`  | Controls the player movement. |
+| `Movement.cs`  | Controls the player movement. |
 | `Camera.cs`  | Manage camera follow with player. |
 | `etc`  | |
 
